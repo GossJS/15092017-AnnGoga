@@ -1,6 +1,22 @@
-# 15092017
-Задание по XML/DTD
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE table PUBLIC "Golubeva_Anna" "https://kodaktor.ru/j/j_53bf0">
 
-см. https://kodaktor.ru/g/15092017
-
-результаты, пожалуйста, помещайте в репозиторий-ответ
+<table>
+    <student name  = "Иванов">
+     <mark subject = "multimedia">3</mark>
+     <mark subject = "Web-design">3</mark>
+     <mark subject = "graphic">5</mark>
+    </student>
+    <student name="Петрова">
+     <mark subject = "multimedia">3</mark>
+     <mark subject = "Web-design">4</mark>
+     <mark subject = "graphic">5</mark>
+     <mark subject = "logic">5</mark>
+    </student>
+    <student name="Сидоренко">
+     <mark subject = "multimedia">3</mark>
+     <mark subject = "Web-design">4</mark>
+     <mark subject = "graphic">5</mark>
+     <mark subject = "logic">4</mark>
+    </student>
+</table>
