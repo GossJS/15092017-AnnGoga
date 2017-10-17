@@ -1,0 +1,58 @@
+﻿{
+	"table": [{
+			"student": {
+				"name": "Иванов",
+				"mark": {
+					"subject": {
+						"multimedia": "3",
+						"Web-design": "3",
+						"graphic": "5"
+					}
+				}
+			}
+		},
+
+		{
+			"student": {
+				"name": "Петрова",
+				"mark": {
+					"subject":
+
+					{
+						"multimedia": "3",
+						"Web-design": "4",
+						"graphic": "5",
+						"logic": "5"
+					}
+
+				}
+			}
+
+
+
+
+
+		},
+		{
+			"student": {
+				"name": "Сидоренко",
+				"mark": {
+					"subject":
+
+					{
+						"multimedia": "3",
+						"Web-design": "4",
+						"graphic": "5",
+						"logic": "4"
+					}
+
+				}
+			}
+
+
+
+
+
+		}
+	]
+}
